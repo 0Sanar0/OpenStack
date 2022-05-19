@@ -1,5 +1,0 @@
-resource_registry:
-  Lib::MSG::MySQL: https://github.com/0Sanar0/OpenStack/blob/main/Sanar%20Gasimov/MySQL.yaml
-  Lib::MSG::Wordpress: https://github.com/0Sanar0/OpenStack/blob/main/Sanar%20Gasimov/WordPress.yaml
-  Lib::MSG::PrivateNetwork: https://github.com/0Sanar0/OpenStack/blob/main/Sanar%20Gasimov/Network.yaml
-  Lib::MSG::FloatingIP: https://github.com/0Sanar0/OpenStack/blob/main/Sanar%20Gasimov/IP.yaml
